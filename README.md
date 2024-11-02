@@ -39,8 +39,4 @@ The exploration of these techniques demonstrates a multifaceted approach to secu
 ## Future Work
 Consider potential extensions or improvements to the project, such as exploring additional encryption algorithms, optimizing the frequency hopping strategy, or enhancing the jamming detection mechanisms.
 
-## Installation Instructions
-If applicable, provide installation instructions for necessary libraries or dependencies to run the code.
 
-## Acknowledgments
-Mention any resources, tutorials, or collaborators that helped you with the project.
