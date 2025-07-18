@@ -64,38 +64,6 @@ MD-OFDM is particularly well-suited for deployments where hardware simplicity, o
 
 ---
 
-## 🚀 Getting Started
-
-To explore the MD-OFDM model and replicate the simulation results:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YourGitHubUsername/your-repo-name.git](https://github.com/YourGitHubUsername/your-repo-name.git)
-    cd your-repo-name
-    ```
-2.  **Install dependencies:**
-    * **[If Python/MATLAB code, specify requirements here, e.g.:]**
-        * For Python simulations: Ensure you have Python 3.x installed. Install required libraries:
-            ```bash
-            pip install numpy scipy matplotlib
-            ```
-        * For MATLAB simulations: MATLAB R20XXa or newer. No specific toolbox installations beyond standard ones are usually required for basic signal processing.
-
-3.  **Run the simulations:**
-    * **[Specify how to run your main simulation scripts, e.g.:]**
-        * For Python:
-            ```bash
-            python simulation_main.py
-            ```
-        * For MATLAB:
-            Open MATLAB and navigate to the `your-repo-name/code` directory. Then run:
-            ```matlab
-            main_simulation_script
-            ```
-    * Simulation results (plots, data) will be generated in `results/` or similar.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for improvements, find a bug, or want to add new features, please open an issue or submit a pull request.
